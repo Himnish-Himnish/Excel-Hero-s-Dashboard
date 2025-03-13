@@ -1,4 +1,4 @@
-📊 HERO'S Admin Excel Dashboard \n
+📊 HERO'S Admin Excel Dashboard 
 
 
 
