@@ -6,12 +6,20 @@ HERO'S Admin Dashboard is an interactive and visually appealing Excel-based dash
 
 
 🚀 Features
+
 Total Order, Sales, Tax & Profit Metrics 📈
+
 Dynamic Category & Shipping Mode Filters 🏷️
+
 Monthly & Yearly Performance Charts 📊
+
 Top 5 Customers Analysis 🏅
+
 User-Friendly UI with Intuitive Navigation 🎨
+
+
 📂 Project Structure
+
 Hero's Admin Excel Dashboard.png - Screenshot of the dashboard
 dashboard.xlsx - Main Excel file containing the dashboard
 README.md - Project documentation (this file)
